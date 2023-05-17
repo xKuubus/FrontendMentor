@@ -138,7 +138,6 @@ footer{
     font-weight: 500;
 }
 footer a{
-    text-decoration: none;
     color: hsl(158, 36%, 37%);
     transition: .5s;
 }
