@@ -135,6 +135,7 @@ footer{
     width: 100%;
     text-align: center;
     color: hsl(228, 12%, 48%);
+    font-weight: 500;
 }
 footer a{
     text-decoration: none;
